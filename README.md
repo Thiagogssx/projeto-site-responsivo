@@ -8,4 +8,5 @@
  - HTML
  - CSS
 
-<p> <img src="https://github.com/Thiagogssx/projeto-site-responsivo/blob/master/assets/desktop.png?raw=true">
+<img src="https://github.com/Thiagogssx/projeto-site-responsivo/blob/master/assets/desktop.png?raw=true">
+<img src="https://github.com/Thiagogssx/projeto-site-responsivo/blob/master/assets/mobile.png?raw=true">
